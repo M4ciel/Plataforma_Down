@@ -11,7 +11,7 @@ A aplicação consiste em uma plataforma de jogos e atividades, junto com aulas 
 ![Web 1]()
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual]()
 
 # Tecnologias utilizadas
 ## Back end
