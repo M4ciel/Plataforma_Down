@@ -1,5 +1,5 @@
 # Plataforma Down
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/M4ciel/Plataforma_Down/blob/main/LICENSE) 
 
 # Sobre o projeto
 
